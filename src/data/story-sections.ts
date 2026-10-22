@@ -2355,14 +2355,14 @@ export const STORY_SECTIONS = {
             'AQUA_WATERED_FLOWERS_212',
             'AQUA_WATERED_FLOWERS_213',
             'AQUA_WATERED_FLOWERS_214',
+            'GARDEN_WATERING_CAN_LOCATION',
+            'AQUA_WATERING_CAN_LOCATION',
           ],
         },
         {
           id: 'flowery-face',
           title: 'Flowery Face',
           flags: ['GARDEN_FLOWERY_FACE_FLAGS0'],
-            'GARDEN_WATERING_CAN_LOCATION',
-            'AQUA_WATERING_CAN_LOCATION',
           ],
         },
         {
