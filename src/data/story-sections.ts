@@ -2642,7 +2642,7 @@ export const STORY_SECTIONS = {
             'CLIFF_FINAL_DASH_FLAGS2',
             'CLIFF_FINAL_DASH_FLAGS3',
             'CLIFF_FINAL_DASH_FLAGS4',
-            'CLIFF_FINAL_DASH_FLAGS5'',
+            'CLIFF_FINAL_DASH_FLAGS5',
             'CLIFF_FINAL_DASH_FLAGS6',
             'CLIFF_FINAL_DASH_FLAGS7',
             'CLIFF_FINAL_DASH_FLAGS7',
