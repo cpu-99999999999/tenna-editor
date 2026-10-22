@@ -2709,7 +2709,7 @@ export const STORY_SECTIONS = {
             'CASTLE_COLLECTIBLE_FLAGS14',
             'CASTLE_COLLECTIBLE_FLAGS15',
             'CASTLE_COLLECTIBLE_FLAGS16',
-          ]
+          ],
         },
         {
           id: 'jail',
@@ -2892,7 +2892,6 @@ export const STORY_SECTIONS = {
             'CASTLE_GLOVES_TOWER_FLAGS15',
             'CASTLE_GLOVES_TOWER_FLAGS16',
             'CASTLE_GLOVES_TOWER_FLAGS17',
-
           ],
         },
         {
