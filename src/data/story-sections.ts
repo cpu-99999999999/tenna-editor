@@ -2637,7 +2637,7 @@ export const STORY_SECTIONS = {
           id: 'last-climb',
           title: 'Last Climb',
           flags: [
-            'CLIFF_FINAL_DASH_FLAGS0'
+            'CLIFF_FINAL_DASH_FLAGS0',
             'CLIFF_FINAL_DASH_FLAGS1',
             'CLIFF_FINAL_DASH_FLAGS2',
             'CLIFF_FINAL_DASH_FLAGS3',
