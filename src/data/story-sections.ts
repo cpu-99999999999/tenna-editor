@@ -2363,7 +2363,6 @@ export const STORY_SECTIONS = {
           id: 'flowery-face',
           title: 'Flowery Face',
           flags: ['GARDEN_FLOWERY_FACE_FLAGS0'],
-          ],
         },
         {
           id: 'scissors-puzzles',
