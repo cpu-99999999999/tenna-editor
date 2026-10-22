@@ -2510,8 +2510,6 @@ export const STORY_SECTIONS = {
             'OBTAINED_MISTLEWP',
             'OBTAINED_NETSKIEHAT_NETSKIECLIMB',
             'NETSKIE_TREASURE_ENCOUNTER_OUTCOME',
-            'CLIFF_NETSKIE_CLIMB_FLAGS1',
-            'CLIFF_NETSKIE_CLIMB_FLAGS2',
           ],
         },
         {
