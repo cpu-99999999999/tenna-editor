@@ -2963,7 +2963,10 @@ export const STORY_SECTIONS = {
         {
           id: 'start-of-top',
           title: 'Start of Castle Top',
-          flags: ['SHINOBEETLE_SETH_ENCOUNTER_OUTCOME', 'SHORTCUT_TOP_OF_CASTLE'],
+          flags: [
+            'SHINOBEETLE_SETH_ENCOUNTER_OUTCOME',
+            'SHORTCUT_TOP_OF_CASTLE',
+          ],
         },
         {
           id: 'ultra-dash',
@@ -2983,7 +2986,7 @@ export const STORY_SECTIONS = {
             'DOG_PLATFORMING_BELL_RIGHT',
             'OBTAINED_DOGDOLLAR_CH5',
           ],
-        },    
+        },
         {
           id: 'ascent-platforming',
           title: 'Ascent Platforming',
