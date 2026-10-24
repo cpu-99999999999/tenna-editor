@@ -2466,6 +2466,7 @@ export const STORY_SECTIONS = {
           title: 'Returning to End of Garden',
           flags: [
             'GARDEN_AQUADASH_PLAT_AQUA_BULLETPATTERNS',
+            'GARDEN_AQUADASH_PLAT_PINKCOIN',
             'GARDEN_AQUADASH_PLAT_COIN1',
             'GARDEN_AQUADASH_PLAT_COIN2',
             'GARDEN_AQUADASH_PLAT_COIN3',
@@ -2495,7 +2496,6 @@ export const STORY_SECTIONS = {
             'GARDEN_AQUADASH_PLAT_COIN27',
             'GARDEN_AQUADASH_PLAT_COIN28',
             'GARDEN_AQUADASH_PLAT_COIN29',
-            'GARDEN_AQUADASH_PLAT_PINKCOIN',
             'GARDEN_AQUAPLATFORMING_BATTLE',
             'GARDEN_AQUAPLATFORMING_GRASS1',
             'GARDEN_AQUAPLATFORMING_GRASS2',
