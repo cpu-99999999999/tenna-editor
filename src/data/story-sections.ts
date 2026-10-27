@@ -3059,12 +3059,11 @@ export const STORY_SECTIONS = {
           flags: [
             'PINK_COINS',
             'PINK_PROGRESS',
+            'PINK_LOSSES',
             'PINK_BOMB_AVAILABLE',
             'PINK_BATTLE_DIFFICULTY',
             'OBTAINED_SHADOW_CRYSTAL_CH5',
-            'PINK_LOSSES',
             'DEFEATED_PINK',
-            'OBTAINED_SHADOW_CRYSTAL_CH5',
             'USED_SHADOW_CRYSTAL_IN_GARDEN',
             'USED_SHADOW_CRYSTAL_ELSEWHERE_CH5',
           ],
