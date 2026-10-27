@@ -3061,6 +3061,7 @@ export const STORY_SECTIONS = {
             'PINK_PROGRESS',
             'PINK_BOMB_AVAILABLE',
             'PINK_BATTLE_DIFFICULTY',
+            'OBTAINED_SHADOW_CRYSTAL_CH5',
             'PINK_LOSSES',
             'DEFEATED_PINK',
             'OBTAINED_SHADOW_CRYSTAL_CH5',
